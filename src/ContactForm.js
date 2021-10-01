@@ -6,6 +6,10 @@ import { Button , Modal , Form} from 'react-bootstrap' ;
 export default function ContactForm(props){
 
   const {REACT_APP_EMAIL_SERVICE_ID , REACT_APP_EMAIL_USER_ID , REACT_APP_EMAIL_TEMPLATE_ID} = process.env ;
+  console.log.log(REACT_APP_EMAIL_USER_ID) ; 
+  console.log.log(REACT_APP_EMAIL_SERVICE_ID) ; 
+  console.log.log(REACT_APP_EMAIL_TEMPLATE_ID) ; 
+
 
   const success = (e) => {
     e.preventDefault();
