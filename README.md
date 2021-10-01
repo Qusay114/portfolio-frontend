@@ -16,7 +16,10 @@ email: qusayamarat@gmail.com
 * REACTJS
 * CSS
 * BOOTSTRAP
+* AOS Library
+* ANT Desaign Library
+* EmailJS Library
 
 ### License
 
-Copyright(c) 2016 **_Qusay Al-Amarat_**
+Copyright(c) 2021 **_Qusay Al-Amarat_**
