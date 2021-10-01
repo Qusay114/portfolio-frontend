@@ -5,8 +5,6 @@ import { Row, Col } from 'antd';
 const Project = (props) => {
 
 
-  console.log(`one of props is ${props.isRight}`);
-
   return(
     <Row className='projectsRow'>
           {!props.isRight && 
